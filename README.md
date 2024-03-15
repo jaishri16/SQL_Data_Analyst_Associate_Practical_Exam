@@ -2,9 +2,9 @@
 FoodYum is a prominent grocery store chain in the United States, offering a wide range of products including produce, meat, dairy, baked goods, snacks, and other household food staples. This README provides information and SQL queries to perform data analysis on the FoodYum product data
 
 # Table of Contents
-This site was built using [GitHub Pages](https://pages.github.com/).
 
-1.Identifying Missing year_added Values(# Identifying Missing year_added Values)
+
+1.Identifying Missing year_added Values(https://github.com/jaishri16/SQL_Data_Analyst_Associate_Practical_Exam/blob/main/README.md#identifying-missing-year_added-values)
 
 
 
