@@ -2,10 +2,10 @@
 FoodYum is a prominent grocery store chain in the United States, offering a wide range of products including produce, meat, dairy, baked goods, snacks, and other household food staples. This README provides information and SQL queries to perform data analysis on the FoodYum product data
 
 # Table of Contents
-1 .[Identifying Missing year_added Values](https://github.com/jaishri16/SQL_Data_Analyst_Associate_Practical_Exam?tab=readme-ov-file#identifying-missing-year_added-values)
-2 .[Ensuring Data Accuracy](https://github.com/jaishri16/SQL_Data_Analyst_Associate_Practical_Exam?tab=readme-ov-file#ensuring-data-accuracy)
-3.[Finding Min and Max Prices for Each Product Type](https://github.com/jaishri16/SQL_Data_Analyst_Associate_Practical_Exam?tab=readme-ov-file#finding-min-and-max-prices-for-each-product-type)
-4.[Detailed Analysis of Meat and Dairy Products](https://github.com/jaishri16/SQL_Data_Analyst_Associate_Practical_Exam?tab=readme-ov-file#detailed-analysis-of-meat-and-dairy-products)
+*[Identifying Missing year_added Values](https://github.com/jaishri16/SQL_Data_Analyst_Associate_Practical_Exam?tab=readme-ov-file#identifying-missing-year_added-values)
+*[Ensuring Data Accuracy](https://github.com/jaishri16/SQL_Data_Analyst_Associate_Practical_Exam?tab=readme-ov-file#ensuring-data-accuracy)
+*[Finding Min and Max Prices for Each Product Type](https://github.com/jaishri16/SQL_Data_Analyst_Associate_Practical_Exam?tab=readme-ov-file#finding-min-and-max-prices-for-each-product-type)
+*[Detailed Analysis of Meat and Dairy Products](https://github.com/jaishri16/SQL_Data_Analyst_Associate_Practical_Exam?tab=readme-ov-file#detailed-analysis-of-meat-and-dairy-products)
 
 # Identifying Missing year_added Values
 To determine how many products have missing year_added values, I used the following query:
