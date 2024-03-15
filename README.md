@@ -1,0 +1,1 @@
+# SQL_Data_Analyst_Associate_Practical_Exam
