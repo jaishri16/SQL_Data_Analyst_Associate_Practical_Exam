@@ -5,11 +5,11 @@ FoodYum is a prominent grocery store chain in the United States, offering a wide
 
 # Identifying Missing year_added Values
 To determine how many products have missing year_added values, I used the following query:
-
+```
 SELECT COUNT(*) AS missing_year
 FROM products
 WHERE year_added IS NULL;
-
+```
 This query outputs a single column, missing_year, indicating the number of products with missing year_added values.
 
 # Ensuring Data Accuracy
