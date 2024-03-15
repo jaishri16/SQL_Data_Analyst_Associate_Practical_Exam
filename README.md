@@ -7,11 +7,6 @@ FoodYum is a prominent grocery store chain in the United States, offering a wide
 3. [Finding Min and Max Prices for Each Product Type](https://github.com/jaishri16/SQL_Data_Analyst_Associate_Practical_Exam?tab=readme-ov-file#finding-min-and-max-prices-for-each-product-type)
 4. [Detailed Analysis of Meat and Dairy Products](https://github.com/jaishri16/SQL_Data_Analyst_Associate_Practical_Exam?tab=readme-ov-file#detailed-analysis-of-meat-and-dairy-products)
 
-+
-+
-+
-+
-
 # Identifying Missing year_added Values
 To determine how many products have missing year_added values, I used the following query:
 ```
